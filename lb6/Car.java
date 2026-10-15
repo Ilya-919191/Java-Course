@@ -1,6 +1,6 @@
 package lb6;
 
-class Car extends Vehicle {
+public class Car extends Vehicle {
   private String bodyType;
   private Engine engine;
 

@@ -1,6 +1,6 @@
 package lb6;
 
-class Vehicle {
+public class Vehicle {
   protected String brand;
   protected int maxSpeed;
 

@@ -1,6 +1,6 @@
 package lb6;
 
-class Engine {
+public class Engine {
   private String type;
   private int horsepower;
 

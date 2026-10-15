@@ -1,6 +1,6 @@
 package lb7;
 
-class ElectricCar extends Car implements Maintainable {
+public class ElectricCar extends Car implements Maintainable {
   private int batteryCapacity;
 
   public ElectricCar(String brand, int maxSpeed, String bodyType, int batteryCapacity) {
